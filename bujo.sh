@@ -24,7 +24,7 @@ header="#+TITLE: Bullet Journal Digital
 
 function bujo_cal() {
     for (( i = 1; i <= 12; i++ )); do
-        ncal -h $i $YEAR
+        ncal -hb $i $YEAR
     done
 }
 
