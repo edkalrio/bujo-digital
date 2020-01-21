@@ -4,128 +4,116 @@
 #+LANGUAGE: es
 #+SEQ_TODO: TODO(t) NEXT(n) WAIT(w) | CANCELLED (c) DONE(d)
 #+INFOJS_OPT: view:t toc:t ltoc:t mouse:underline buttons:0 path:https://ugeek.github.io/style-css-org-mode/org-info.min.js
-#+HTML_HEAD: <link rel=stylesheet type=text/css href=https://ugeek.github.io/style-css-org-mode/bjm.css />
+#+HTML_HEAD: <link rel='stylesheet' type='text/css' href='https://ugeek.github.io/style-css-org-mode/bjm.css' />
 #+STARTUP: inlineimages
 * INDICE
-** CLAVES 
-*** Tarea Normal 
-*** *Tarea Importante* 
-*** / Tarea Empezada 
-*** > Tarea Viene de Otro Día 
-*** < Tarea Migra a Otro Día 
+** CLAVES
+*** Tarea Normal
+*** *Tarea Importante*
+*** / Tarea Empezada
+*** > Tarea Viene de Otro Día
+*** < Tarea Migra a Otro Día
 *** +Hecho+
 *** # Nota
 * REGISTRO FUTURO
--e      Enero 2020       
-do lu ma mi ju vi sá  
-          1  2  3  4  
- 5  6  7  8  9 10 11  
-12 13 14 15 16 17 18  
-19 20 21 22 23 24 25  
-26 27 28 29 30 31     
-                      
--e  
--e     Febrero 2020      
-do lu ma mi ju vi sá  
-                   1  
- 2  3  4  5  6  7  8  
- 9 10 11 12 13 14 15  
-16 17 18 19 20 21 22  
-23 24 25 26 27 28 29  
-                      
--e  
--e      Marzo 2020       
-do lu ma mi ju vi sá  
- 1  2  3  4  5  6  7  
- 8  9 10 11 12 13 14  
-15 16 17 18 19 20 21  
-22 23 24 25 26 27 28  
-29 30 31              
-                      
--e  
--e      Abril 2020       
-do lu ma mi ju vi sá  
-          1  2  3  4  
- 5  6  7  8  9 10 11  
-12 13 14 15 16 17 18  
-19 20 21 22 23 24 25  
-26 27 28 29 30        
-                      
--e  
--e      Mayo 2020        
-do lu ma mi ju vi sá  
-                1  2  
- 3  4  5  6  7  8  9  
-10 11 12 13 14 15 16  
-17 18 19 20 21 22 23  
-24 25 26 27 28 29 30  
-31                    
--e  
--e      Junio 2020       
-do lu ma mi ju vi sá  
-    1  2  3  4  5  6  
- 7  8  9 10 11 12 13  
-14 15 16 17 18 19 20  
-21 22 23 24 25 26 27  
-28 29 30              
-                      
--e  
--e      Julio 2020       
-do lu ma mi ju vi sá  
-          1  2  3  4  
- 5  6  7  8  9 10 11  
-12 13 14 15 16 17 18  
-19 20 21 22 23 24 25  
-26 27 28 29 30 31     
-                      
--e  
--e     Agosto 2020       
-do lu ma mi ju vi sá  
-                   1  
- 2  3  4  5  6  7  8  
- 9 10 11 12 13 14 15  
-16 17 18 19 20 21 22  
-23 24 25 26 27 28 29  
-30 31                 
--e  
--e   Septiembre 2020     
-do lu ma mi ju vi sá  
-       1  2  3  4  5  
- 6  7  8  9 10 11 12  
-13 14 15 16 17 18 19  
-20 21 22 23 24 25 26  
-27 28 29 30           
-                      
--e  
--e     Octubre 2020      
-do lu ma mi ju vi sá  
-             1  2  3  
- 4  5  6  7  8  9 10  
-11 12 13 14 15 16 17  
-18 19 20 21 22 23 24  
-25 26 27 28 29 30 31  
-                      
--e  
--e    Noviembre 2020     
-do lu ma mi ju vi sá  
- 1  2  3  4  5  6  7  
- 8  9 10 11 12 13 14  
-15 16 17 18 19 20 21  
-22 23 24 25 26 27 28  
-29 30                 
-                      
--e  
--e    Diciembre 2020     
-do lu ma mi ju vi sá  
-       1  2  3  4  5  
- 6  7  8  9 10 11 12  
-13 14 15 16 17 18 19  
-20 21 22 23 24 25 26  
-27 28 29 30 31        
-                      
--e  
+    Enero 2020        
+lu     6 13 20 27   
+ma     7 14 21 28   
+mi  1  8 15 22 29   
+ju  2  9 16 23 30   
+vi  3 10 17 24 31   
+sá  4 11 18 25      
+do  5 12 19 26      
+    Febrero 2020      
+lu     3 10 17 24   
+ma     4 11 18 25   
+mi     5 12 19 26   
+ju     6 13 20 27   
+vi     7 14 21 28   
+sá  1  8 15 22 29   
+do  2  9 16 23      
+    Marzo 2020        
+lu     2  9 16 23 30
+ma     3 10 17 24 31
+mi     4 11 18 25   
+ju     5 12 19 26   
+vi     6 13 20 27   
+sá     7 14 21 28   
+do  1  8 15 22 29   
+    Abril 2020        
+lu     6 13 20 27   
+ma     7 14 21 28   
+mi  1  8 15 22 29   
+ju  2  9 16 23 30   
+vi  3 10 17 24      
+sá  4 11 18 25      
+do  5 12 19 26      
+    Mayo 2020         
+lu     4 11 18 25   
+ma     5 12 19 26   
+mi     6 13 20 27   
+ju     7 14 21 28   
+vi  1  8 15 22 29   
+sá  2  9 16 23 30   
+do  3 10 17 24 31   
+    Junio 2020        
+lu  1  8 15 22 29   
+ma  2  9 16 23 30   
+mi  3 10 17 24      
+ju  4 11 18 25      
+vi  5 12 19 26      
+sá  6 13 20 27      
+do  7 14 21 28      
+    Julio 2020        
+lu     6 13 20 27   
+ma     7 14 21 28   
+mi  1  8 15 22 29   
+ju  2  9 16 23 30   
+vi  3 10 17 24 31   
+sá  4 11 18 25      
+do  5 12 19 26      
+    Agosto 2020       
+lu     3 10 17 24 31
+ma     4 11 18 25   
+mi     5 12 19 26   
+ju     6 13 20 27   
+vi     7 14 21 28   
+sá  1  8 15 22 29   
+do  2  9 16 23 30   
+    Septiembre 2020   
+lu     7 14 21 28   
+ma  1  8 15 22 29   
+mi  2  9 16 23 30   
+ju  3 10 17 24      
+vi  4 11 18 25      
+sá  5 12 19 26      
+do  6 13 20 27      
+    Octubre 2020      
+lu     5 12 19 26   
+ma     6 13 20 27   
+mi     7 14 21 28   
+ju  1  8 15 22 29   
+vi  2  9 16 23 30   
+sá  3 10 17 24 31   
+do  4 11 18 25      
+    Noviembre 2020    
+lu     2  9 16 23 30
+ma     3 10 17 24   
+mi     4 11 18 25   
+ju     5 12 19 26   
+vi     6 13 20 27   
+sá     7 14 21 28   
+do  1  8 15 22 29   
+    Diciembre 2020    
+lu     7 14 21 28   
+ma  1  8 15 22 29   
+mi  2  9 16 23 30   
+ju  3 10 17 24 31   
+vi  4 11 18 25      
+sá  5 12 19 26      
+do  6 13 20 27      
 * AGENDA
-** ENERO
+** enero
 *** 01 miércoles
 *** 02 jueves
 *** 03 viernes
@@ -157,7 +145,7 @@ do lu ma mi ju vi sá
 *** 29 miércoles
 *** 30 jueves
 *** 31 viernes
-** FEBRERO
+** febrero
 *** 01 sábado
 *** 02 domingo
 *** 03 lunes
@@ -187,7 +175,7 @@ do lu ma mi ju vi sá
 *** 27 jueves
 *** 28 viernes
 *** 29 sábado
-** MARZO
+** marzo
 *** 01 domingo
 *** 02 lunes
 *** 03 martes
@@ -219,7 +207,7 @@ do lu ma mi ju vi sá
 *** 29 domingo
 *** 30 lunes
 *** 31 martes
-** ABRIL
+** abril
 *** 01 miércoles
 *** 02 jueves
 *** 03 viernes
@@ -250,7 +238,7 @@ do lu ma mi ju vi sá
 *** 28 martes
 *** 29 miércoles
 *** 30 jueves
-** MAYO
+** mayo
 *** 01 viernes
 *** 02 sábado
 *** 03 domingo
@@ -282,7 +270,7 @@ do lu ma mi ju vi sá
 *** 29 viernes
 *** 30 sábado
 *** 31 domingo
-** JUNIO
+** junio
 *** 01 lunes
 *** 02 martes
 *** 03 miércoles
@@ -313,7 +301,7 @@ do lu ma mi ju vi sá
 *** 28 domingo
 *** 29 lunes
 *** 30 martes
-** JULIO
+** julio
 *** 01 miércoles
 *** 02 jueves
 *** 03 viernes
@@ -345,7 +333,7 @@ do lu ma mi ju vi sá
 *** 29 miércoles
 *** 30 jueves
 *** 31 viernes
-** AGOSTO
+** agosto
 *** 01 sábado
 *** 02 domingo
 *** 03 lunes
@@ -377,7 +365,7 @@ do lu ma mi ju vi sá
 *** 29 sábado
 *** 30 domingo
 *** 31 lunes
-** SEPTIEMBRE
+** septiembre
 *** 01 martes
 *** 02 miércoles
 *** 03 jueves
@@ -408,7 +396,7 @@ do lu ma mi ju vi sá
 *** 28 lunes
 *** 29 martes
 *** 30 miércoles
-** OCTUBRE
+** octubre
 *** 01 jueves
 *** 02 viernes
 *** 03 sábado
@@ -440,7 +428,7 @@ do lu ma mi ju vi sá
 *** 29 jueves
 *** 30 viernes
 *** 31 sábado
-** NOVIEMBRE
+** noviembre
 *** 01 domingo
 *** 02 lunes
 *** 03 martes
@@ -471,7 +459,7 @@ do lu ma mi ju vi sá
 *** 28 sábado
 *** 29 domingo
 *** 30 lunes
-** DICIEMBRE
+** diciembre
 *** 01 martes
 *** 02 miércoles
 *** 03 jueves
@@ -504,7 +492,7 @@ do lu ma mi ju vi sá
 *** 30 miércoles
 *** 31 jueves
 * DIARIO
-** ENERO
+** enero
 *** 01 de enero del 2020, miércoles
 *** 02 de enero del 2020, jueves
 *** 03 de enero del 2020, viernes
@@ -536,7 +524,7 @@ do lu ma mi ju vi sá
 *** 29 de enero del 2020, miércoles
 *** 30 de enero del 2020, jueves
 *** 31 de enero del 2020, viernes
-** FEBRERO
+** febrero
 *** 01 de febrero del 2020, sábado
 *** 02 de febrero del 2020, domingo
 *** 03 de febrero del 2020, lunes
@@ -566,7 +554,7 @@ do lu ma mi ju vi sá
 *** 27 de febrero del 2020, jueves
 *** 28 de febrero del 2020, viernes
 *** 29 de febrero del 2020, sábado
-** MARZO
+** marzo
 *** 01 de marzo del 2020, domingo
 *** 02 de marzo del 2020, lunes
 *** 03 de marzo del 2020, martes
@@ -598,7 +586,7 @@ do lu ma mi ju vi sá
 *** 29 de marzo del 2020, domingo
 *** 30 de marzo del 2020, lunes
 *** 31 de marzo del 2020, martes
-** ABRIL
+** abril
 *** 01 de abril del 2020, miércoles
 *** 02 de abril del 2020, jueves
 *** 03 de abril del 2020, viernes
@@ -629,7 +617,7 @@ do lu ma mi ju vi sá
 *** 28 de abril del 2020, martes
 *** 29 de abril del 2020, miércoles
 *** 30 de abril del 2020, jueves
-** MAYO
+** mayo
 *** 01 de mayo del 2020, viernes
 *** 02 de mayo del 2020, sábado
 *** 03 de mayo del 2020, domingo
@@ -661,7 +649,7 @@ do lu ma mi ju vi sá
 *** 29 de mayo del 2020, viernes
 *** 30 de mayo del 2020, sábado
 *** 31 de mayo del 2020, domingo
-** JUNIO
+** junio
 *** 01 de junio del 2020, lunes
 *** 02 de junio del 2020, martes
 *** 03 de junio del 2020, miércoles
@@ -692,7 +680,7 @@ do lu ma mi ju vi sá
 *** 28 de junio del 2020, domingo
 *** 29 de junio del 2020, lunes
 *** 30 de junio del 2020, martes
-** JULIO
+** julio
 *** 01 de julio del 2020, miércoles
 *** 02 de julio del 2020, jueves
 *** 03 de julio del 2020, viernes
@@ -724,7 +712,7 @@ do lu ma mi ju vi sá
 *** 29 de julio del 2020, miércoles
 *** 30 de julio del 2020, jueves
 *** 31 de julio del 2020, viernes
-** AGOSTO
+** agosto
 *** 01 de agosto del 2020, sábado
 *** 02 de agosto del 2020, domingo
 *** 03 de agosto del 2020, lunes
@@ -756,7 +744,7 @@ do lu ma mi ju vi sá
 *** 29 de agosto del 2020, sábado
 *** 30 de agosto del 2020, domingo
 *** 31 de agosto del 2020, lunes
-** SEPTIEMBRE
+** septiembre
 *** 01 de septiembre del 2020, martes
 *** 02 de septiembre del 2020, miércoles
 *** 03 de septiembre del 2020, jueves
@@ -787,7 +775,7 @@ do lu ma mi ju vi sá
 *** 28 de septiembre del 2020, lunes
 *** 29 de septiembre del 2020, martes
 *** 30 de septiembre del 2020, miércoles
-** OCTUBRE
+** octubre
 *** 01 de octubre del 2020, jueves
 *** 02 de octubre del 2020, viernes
 *** 03 de octubre del 2020, sábado
@@ -819,7 +807,7 @@ do lu ma mi ju vi sá
 *** 29 de octubre del 2020, jueves
 *** 30 de octubre del 2020, viernes
 *** 31 de octubre del 2020, sábado
-** NOVIEMBRE
+** noviembre
 *** 01 de noviembre del 2020, domingo
 *** 02 de noviembre del 2020, lunes
 *** 03 de noviembre del 2020, martes
@@ -850,7 +838,7 @@ do lu ma mi ju vi sá
 *** 28 de noviembre del 2020, sábado
 *** 29 de noviembre del 2020, domingo
 *** 30 de noviembre del 2020, lunes
-** DICIEMBRE
+** diciembre
 *** 01 de diciembre del 2020, martes
 *** 02 de diciembre del 2020, miércoles
 *** 03 de diciembre del 2020, jueves
